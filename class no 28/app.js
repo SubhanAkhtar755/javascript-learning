@@ -51,6 +51,11 @@
 //   }
 
 
+                //    practice
+// var new1 = prompt()
+// var new2 = new1.split("").reverse().join("")
+// console.log(new2)
+
 
 
 
