@@ -8,7 +8,7 @@ From basic syntax to advanced features, this repo represents my step-by-step lea
 
 ##  Background
 
-Originally, I practiced and saved files from **Class 1 to Class 54** during my JavaScript learning sessions.  
+Originally, I practiced and saved files from **Class 22 to Class 54** during my JavaScript learning sessions.  
 Unfortunately, due to a **PC fault**, some early files were deleted and only the **recoverable classes (from Class 22 onward)** could be restored.
 
 After learning GitHub, I uploaded all the recovered files here to **preserve my JavaScript learning journey permanently**.  
